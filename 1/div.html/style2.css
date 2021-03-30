@@ -1,0 +1,16 @@
+div{
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    border-color: black;
+    font-size: 200px;
+    border-radius: 50px;
+    border-width: 20px;
+    border-style: solid;
+    }
+.left{
+    float: left;
+     }
+.right{
+    float: right;
+    } 

@@ -11,7 +11,9 @@ div {
 }
 #left{
     float: left;
+    border: 0px;
 }
 #right{
     float: right;
+    border: 0px;
 }
