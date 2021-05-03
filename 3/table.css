@@ -1,0 +1,19 @@
+table{
+    border: 2px solid;
+    width: 500px;
+    border-collapse: collapse;
+    align-items: center;
+}
+
+th,td{
+    padding: 20px;
+    border: 2px solid;
+    height: 30px;
+}
+th{
+    background-color: gray;
+    text-align: center;
+}
+body{
+    align-items: center;
+}

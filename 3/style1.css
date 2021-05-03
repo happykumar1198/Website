@@ -1,6 +1,15 @@
-#background{
-    background-image: url(bgimages/one.jpeg);
-    height: 100px;
-    padding-top: 500px;
-    margin-top: 200px;
-    }
+    table{
+        border: 1px solid;
+        width: 100px;
+        border-collapse: collapse;
+     }
+     th,td{
+         padding: 15px;
+         border: 1px solid;
+         height: 30px;
+     }
+     th{
+         text-align: left;
+     }
+    
+    
