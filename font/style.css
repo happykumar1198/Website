@@ -10,3 +10,6 @@ p{
     font-size: 23px;
     font-family:'Courier New', Courier, monospace;
 }
+body{
+    background-color: bisque;
+}
